@@ -37,6 +37,6 @@ MVP 1.0 (планируемый минимум к завершению курс�
 1. Аутентификация и авторизация - OAuth2.0
 2. Frontend - JS(TS), React
 3. Backend - Kotlin, Spring/Ktor/Quarkus/Micronaut
-4. BD - Postgres/MongoDB
+4. BD - Postgres/MongoDB/Redis
 5. Протоколы взаимодействия - gRPC/Json
 6. DevOps - Docker, k8s
